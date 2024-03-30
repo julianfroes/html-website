@@ -1,1 +1,1 @@
-https://julianfroes.github.io/html-website/
+Link to the host: https://julianfroes.github.io/html-website/
